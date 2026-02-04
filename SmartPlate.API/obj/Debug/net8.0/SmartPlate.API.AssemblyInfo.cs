@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartPlate.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc69e6a7983851bc8d884ca5f0eb2a8ae77a9bc2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4b192830b6975aac7a4796dfa3d21cd792c7011")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartPlate.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartPlate.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
