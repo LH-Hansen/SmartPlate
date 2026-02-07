@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("450c519c-d378-4961-a0c6-3d8defd861bd")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartPlate.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4b192830b6975aac7a4796dfa3d21cd792c7011")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a3c0f5569c8db76d01a4da032c8e9f78191ecda")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartPlate.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartPlate.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
